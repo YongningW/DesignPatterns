@@ -1,7 +1,0 @@
-# ninja log v5
-21	279	7204257917700883	CMakeFiles/ObserverPatternTest.dir/concretesubject.cpp.obj	19ba2a5035ffe684
-9	569	7204379286927744	CMakeFiles/ObserverPatternTest.dir/subject.cpp.obj	fb59f2cdb3f1a5fc
-12	590	7204257920802705	CMakeFiles/ObserverPatternTest.dir/ObserverPatternTest.cpp.obj	871db6a3612b6c9
-4	807	7204379289320005	CMakeFiles/ObserverPatternTest.dir/concreteobserver.cpp.obj	13eed602863d06e0
-807	992	7204379291132108	ObserverPatternTest.exe	2221020fa66861f8
-4	265	7204412497027907	build.ninja	cbd23fc447e24ecf

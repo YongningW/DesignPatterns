@@ -1,3 +1,0 @@
-E:/cpp/ObserverPatternTest/cmake-build-debug/CMakeFiles/ObserverPatternTest.dir
-E:/cpp/ObserverPatternTest/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/cpp/ObserverPatternTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
