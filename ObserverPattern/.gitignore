@@ -9,4 +9,3 @@ cmake-build-debug
 .vs/
 x64/
 *.sln
-.history
