@@ -8,11 +8,11 @@
 namespace BridgePattern {
 class RefinedAbstraction : public Abstraction {
 public:
-    RefinedAbstraction();
-    ~RefinedAbstraction();
-    explicit RefinedAbstraction(Implementor *impl);
+RefinedAbstraction();
+~RefinedAbstraction();
+explicit RefinedAbstraction(Implementor *impl);
 
-    void operation() override;
+void operation() override;
 };
 } // namespace BridgePattern
 #endif //BRIDGEPATTERN_REFINEDABSTRACTION_H
